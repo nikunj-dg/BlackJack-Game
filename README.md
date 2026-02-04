@@ -64,6 +64,7 @@ python main.py
 ## Future Improvements
 
 - Input validation for bet amount
+- - Multiplayer Support 
 - Prevent betting more than balance
 - Blackjack detection (natural 21)
 - Split and Double Down options
